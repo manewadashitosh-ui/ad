@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Frame -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,16 L24,28 L24,54 C24,75.2 36.8,92.5 54,98 C71.2,92.5 84,75.2 84,54 L84,28 L54,16 Z" />
+        
+    <!-- Inner Dark Shield Accent for visual depth -->
+    <path
+        android:fillColor="#0B0F17"
+        android:pathData="M54,22 L30,32 L30,54 C30,71.8 40.2,86.2 54,91 C67.8,86.2 78,71.8 78,54 L78,32 L54,22 Z" />
+        
+    <!-- Central Secure Checkmark -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,54 L50,62 L66,46" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "AdShield Pro",
+  "description": "A robust system-wide DNS ad blocker using Android VpnService to secure and clean your mobile browsing experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
